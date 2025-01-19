@@ -1,0 +1,110 @@
+{
+  "subjects": [
+    {
+      "name": "pathfinder_survery",
+      "image": "/images/career_quiz.png",
+      "questions": [
+        {
+          "question": "Do you enjoy testing the quality of parts before shipment?",
+          "options": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+          ],
+          "related_career": "Quality Control Engineer",
+          "education_required": "Bachelor’s Degree",
+          "salary_range": "3,00,000 - 7,00,000",
+          "career_code": [
+            "Realistic",
+            "Realistic",
+            "Investigative",
+            "Social",
+            "Conventional"
+          ]
+        },
+        {
+          "question": "Are you interested in studying the structure of the human body?",
+          "options": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+          ],
+          "related_career": "Biomedical Engineer",
+          "education_required": "Bachelor’s/Master’s",
+          "salary_range": "4,50,000 - 9,00,000",
+          "career_code": [
+            "Investigative",
+            "Investigative",
+            "Realistic",
+            "Artistic",
+            "Social"
+          ]
+        },
+        {
+          "question": "Do you like conducting a musical choir?",
+          "options": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+          ],
+          "related_career": "Musician",
+          "education_required": "Formal Training/Experience",
+          "salary_range": "5,00,000 - 20,00,000",
+          "career_code": [
+            "Artistic",
+            "Artistic",
+            "Social",
+            "Realistic",
+            "Conventional"
+          ]
+        },
+        {
+          "question": "Would you enjoy giving career guidance to people?",
+          "options": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+          ],
+          "related_career": "Career Counselor",
+          "education_required": "Master’s Degree",
+          "salary_range": "3,50,000 - 10,00,000",
+          "career_code": [
+            "Social",
+            "Social",
+            "Artistic",
+            "Realistic",
+            "Conventional"
+          ]
+        },
+        {
+          "question": "Do you want to sell restaurant franchises to individuals?",
+          "options": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+          ],
+          "related_career": "Event Planner",
+          "education_required": "Bachelor’s/Master’s",
+          "salary_range": "5,00,000 - 15,00,000",
+          "career_code": [
+            "Enterprising",
+            "Enterprising",
+            "Conventional",
+            "Social",
+            "Realistic"
+          ]
+        }
+      ]
+    }
+  ]
+}
