@@ -48,6 +48,6 @@ Pathfinder is a web application designed to help anyone discover career paths ta
 ## Installation and Setup
 
 ### Prerequisites
-- Node.js and npm/yarn installed.
+- Node.js and npm/yarn installed
 
 
